@@ -1,2 +1,2 @@
-# booksample
-book示例
+# Initial page
+
